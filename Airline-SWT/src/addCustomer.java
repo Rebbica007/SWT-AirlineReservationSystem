@@ -370,8 +370,7 @@ public class addCustomer extends javax.swing.JInternalFrame {
     
     
     
-    
-    
+
     
     private void txtlastnameActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txtlastnameActionPerformed
         // TODO add your handling code here:
